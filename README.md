@@ -49,7 +49,7 @@ Sensitive to noise and outliers
 
 Once clusters are merged or split, they cannot be undone
 
-📚 Applications
+📚 Applications:
 
 Customer segmentation
 
